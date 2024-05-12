@@ -1,7 +1,7 @@
 <h1>Bluetooth Ottoman</h1>
 
  <p align="center">
-<img src="https://i.imgur.com/LY76fVT.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9jJ9uRZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
@@ -12,6 +12,11 @@
 <br />
 <br />
 
+<h2>360 View</h2>
+ <p align="center">
+<img src="https://i.imgur.com/LY76fVT.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>Features</h2>
 
