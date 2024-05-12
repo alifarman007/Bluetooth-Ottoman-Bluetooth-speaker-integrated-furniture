@@ -6,10 +6,10 @@
 <br />
 
 <h2>Description</h2>
-The project consists of a python script that walks the user through Start the game by asking the player:
-
-"What do you choose? Rock, Paper, Scissors." The familiar game of Rock, Paper, Scissors is played like this: at the same time, two players display one of three symbols: a rock, paper, or scissors. Rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it.
-The User has to play with the computer.
+ <p align="center">
+<img src="https://i.imgur.com/cDlx4aZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <br />
 
 
