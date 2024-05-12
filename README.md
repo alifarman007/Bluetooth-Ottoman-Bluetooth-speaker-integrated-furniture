@@ -13,20 +13,20 @@
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Features</h2>
 
-- <b>Python</b> 
-- <b>Pycharm</b>
+- <b>50W sound</b> 
+- <b>Bluetooth Enable</b>
+- <b>5000mAh Battery</b>
+- <b>Fast Charging</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Chip, PCB and Charging PCB</h2>
 
 <p align="center">
 Program Output <br/>
-<img src="https://i.imgur.com/ONiov8t.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BtpvgRU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
