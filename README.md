@@ -30,7 +30,6 @@
 <h2>Chip, PCB and Charging PCB</h2>
 
 <p align="center">
-Program Output <br/>
 <img src="https://i.imgur.com/BtpvgRU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
