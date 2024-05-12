@@ -34,6 +34,9 @@
 <br />
 <br />
 
+<h2>Purchase Link</h2>
+<b>https://www.isho.com/products/bluetooth-ottoman</b>
+
 
 
 <!--
